@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanFarrellP, a fresh mathematics graduate from Institute Technology Bandung.
 - 📘 Through my pursuit of a bachelor's degree in mathematics, I discovered my enthusiasm for coding. Python and MATLAB were the programming languages I used for my class assignments and final project.
-- 👀 As of late, I’ve been interested in Web/Mobile Development.
-- 🌱 However, I’m still searching for programming languages and frameworks that suit me.
+- 👀 As of late, I’ve been interested in digital product development.
+- 🌱 Currently, I'm learning C# and going to try Blazor.
 - 📫 You can reach me by sending an email to juanfarrell.work@gmail.com.
 
 <!---
