@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanFarrellP, a fresh mathematics graduate from Institute Technology Bandung.
-- 📘 Through my pursuit of a bachelor's degree in mathematics, I discovered my enthusiasm for coding. Python and MATLAB were the programming languages I used for my class assignments and final project. In addition to my academic activities, I also joined several communication and media divisions in student organizations and committees.
+- 📘 Through my pursuit of a bachelor's degree in mathematics, I discovered my enthusiasm for coding. Python and MATLAB were the programming languages I used for my class assignments and final project.
 - 👀 As of late, I’ve been interested in Web/Mobile Development.
-- 🌱 I’m currently learning Vue.js (Javascript, html, and SASS) with Quasar Framework and Firebase.
+- 🌱 I’m still searching for programming languages and frameworks that suit me.
 - 📫 You can reach me by sending an email to juanfarrell.work@gmail.com.
 
 <!---
